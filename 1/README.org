@@ -1,0 +1,38 @@
+#+title: Readme
+
+* Project
+** Dreams and Complaints
+*** Dreams
+- io device to be fiddled with (dice/ring)
+- have tabletop games to play
+- play more relaxed dnd
+
+*** Complaints
+- too much screen time
+- too little private space
+- poor health (health monitor!)
+- not knowing what to do when hanging out with friends
+
+* Laser-cut
+** Brainstorm
+- laser-cut chess pieces!! and chess set
+- todo-management!
+- games like go!
+- modular stamps!
+- modular boxes
+- flexible pieces
+- calender!
+- Organiser
+- Dice!
+
+** Design
+- 2 pieces: triangular + double-square(flexible)
+- With these two pieces, all kinds of geometrical shape can be achieved
+
+*** Results :ATTACH:
+:PROPERTIES:
+:ID:       8178794a-e1bf-4289-a4a1-ffbe64b814a6
+:END:
+- the joints fit well with a 0.4mm kerf.(this is tested) Some joints still doesn't stick together, so the kerf should be even larger.
+
+[[attachment:_20221115_122339IMG_6434.HEIC]]

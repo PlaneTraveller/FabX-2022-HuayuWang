@@ -1,0 +1,27 @@
+#+title: README
+
+* Project
+** Story
+Xiao Ming and his friends wanted to play together. They gathered in the common space downstaires and then they were seated. 
+
+"I had such a long day! So glad we could gather together to relax a bit.", exclaimed Xiao Ming.
+
+"Me too! So what should we do tonight?", asked Xiao Cao exitedly, but no response was heard. No one seems to have any idea. 
+
+Xiao Hua proposed: "Let's play 'Kill-Things' on our cell phones!"
+
+"Nah, I don't want to stare at my phone any more."
+
+Some nods in agreement, some are dissapointed.
+
+"How about that board game 'Magic-Things'? Oh never mind, that's too complicated for today. My brain cells are all dead from all the maths classes."
+
+The group was then silent for a moment, bored. Xiao Ming felt that he would like to relax and play games with his friends, but the reality is much more complicated than a willful wish. It seems that finding something to do together is much harder than maths excercises, but still, the gang wouldn't dare to tear their asses from the already glued-on sofa. A stalemate was reached, one that no one can break. Now, he is even more tired than before, as some magical force, either from the board game universe or the mobile game, came out to suffocate the jolly gang, and to trick them into staying.
+
+What can we do to save them from this dillema, just as the handsome prince saved the princess?
+
+
+* 3D Printing
+** Design
+- A dish that a Dice rolls in
+- It's supposed to demonstrate that the dish will control the dice's movement with magnetic controlling.

@@ -1,0 +1,20 @@
+#+title: Readme
+
+* Project
+** Promising ideas
+- game inventor
+- DIY helper
+-
+** Game inventor
+*** Structure
+- theory of games: structure
+- Design the game logic, not the assets
+- cards, maps, indicators, rules
+- information, iterator
+
+*** Parts
+- cards: Cell phone app
+- maps: rear projection
+- indicators:
+
+* Arduino

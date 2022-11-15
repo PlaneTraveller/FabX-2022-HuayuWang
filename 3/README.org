@@ -1,0 +1,12 @@
+#+TITLE: README
+
+* Project
+** Brainstorm
+- Topic: How might we have fun together?
+- Result: see picture
+
+
+
+* 3D Scanning
+** Design
+- 3D scan a cat on campus and print it
